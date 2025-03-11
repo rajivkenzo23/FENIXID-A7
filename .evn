@@ -10,13 +10,13 @@ WHITE_LIST=
 
 # Bot Details
 FENIX_ABOUT_TYPE=Programming
-OWNER_NUMBER=94773010580
+OWNER_NUMBER=94760457315
 USER_TIMEZONE=Asia/Colombo
 FENIX_NAME=Unknown Friend
 
 # Welcome Messages
-FENIX_WEL_1=Your Number Has Been Auto Saved🫠
-FENIX_WEL_2=Save And Alert Me If Save 🌹
+FENIX_WEL_1=ඔයාගෙ නම්බර් එක සේව් වෙලා තියෙන්නෙ...🫠
+FENIX_WEL_2=සේව්✅ නම් ` Save`  or ` sv ` කියලා මැසේජ් එකක් දාන්න.නැත්තන් Contact අයින් වෙයි🌹
 FENIX_WEL_3=Save and Alert me✅
 
 # Status Auto-Detect Messages
@@ -26,9 +26,9 @@ PRIVATE_AUTO_DETECT_1=heyyy 😸
 PRIVATE_AUTO_DETECT_2=ඔයගෙ නම්බරෙ ගත්තෙ කෙනෙක් ශෙයා කරනකොට 😫
 
 # Bot Profile Details
-BOT_NAME=FENX ID OWNER
-BOT_AGE=26
-BOT_LOCATION=SRILANKA
+BOT_NAME=VIXEN ID OWNER
+BOT_AGE=22
+BOT_LOCATION=SRI-LANKA
 BOT_EMAIL=privateloginemails@gmail.com
 
 # Relax Wishes
