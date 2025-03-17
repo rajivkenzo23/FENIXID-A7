@@ -28,7 +28,7 @@ module.exports = {
         botName: process.env.BOT_NAME || 'VIXEN ID OWNER',
         botAge: process.env.BOT_AGE || '22',
         botLocation: process.env.BOT_LOCATION || 'SRI-LANKA',
-        botEmail: process.env.BOT_EMAIL || 'privateloginemails@gmail.com',
+        botEmail: process.env.BOT_EMAIL || 'vrjchanuka24@gmail.com',
     },
 
     relaxWishes: process.env.RELAX_WISHES || 'Take a deep breath... 🌿',
