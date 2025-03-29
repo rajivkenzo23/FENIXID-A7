@@ -10,13 +10,13 @@ WHITE_LIST=
 
 # Bot Details
 FENIX_ABOUT_TYPE=Programming
-OWNER_NUMBER=94773010580
+OWNER_NUMBER=94760457315
 USER_TIMEZONE=Asia/Colombo
 FENIX_NAME=Unknown Friend
 
 # Welcome Messages
-FENIX_WEL_1=Your Number Has Been Auto Saved🫠
-FENIX_WEL_2=Save And Alert Me If Save 🌹
+FENIX_WEL_1=ඔයාගේ නම්බර් එක AUTO SAVE වෙනවා 🫠
+FENIX_WEL_2=save නම් "SV" කියල MSG එකක් දාන්න 🌹
 FENIX_WEL_3=Save and Alert me✅
 
 # Status Auto-Detect Messages
@@ -26,17 +26,17 @@ PRIVATE_AUTO_DETECT_1=heyyy 😸
 PRIVATE_AUTO_DETECT_2=ඔයගෙ නම්බරෙ ගත්තෙ කෙනෙක් ශෙයා කරනකොට 😫
 
 # Bot Profile Details
-BOT_NAME=FENX ID OWNER
-BOT_AGE=26
+BOT_NAME=VIXEN ID OWNER
+BOT_AGE=22
 BOT_LOCATION=SRILANKA
-BOT_EMAIL=privateloginemails@gmail.com
+BOT_EMAIL=vrjchanuka24@gmail.com@gmail.com
 
 # Relax Wishes
 RELAX_WISHES=Take a deep breath... 🌿
 
 # MongoDB Settings
-MONGO_URI=mongodb+srv://Own:Own@cluster0.aahbv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-DB_NAME=Own
+MONGO_URI=mongodb+srv://vihanga24:oDmu8B3olGCRsnEV@cluster0.ljxkg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+DB_NAME=vihanga24
 
 # Collections
 COLLECTION_CONTACTS=anypswd
