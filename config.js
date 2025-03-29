@@ -34,8 +34,8 @@ module.exports = {
     relaxWishes: process.env.RELAX_WISHES || 'Take a deep breath... 🌿',
 
     // MongoDB settings
-    mongoURI: process.env.MONGO_URI || 'mongodb+srv://Own:Own@cluster0.aahbv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
-    dbName: process.env.DB_NAME || 'Own',
+    mongoURI: process.env.MONGO_URI || 'mongodb+srv://vihanga24:oDmu8B3olGCRsnEV@cluster0.ljxkg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
+    dbName: process.env.DB_NAME || 'vihanga24',
 
     // Collections
     collections: {
