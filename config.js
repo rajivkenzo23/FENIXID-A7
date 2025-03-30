@@ -13,8 +13,8 @@ module.exports = {
     FenixName: process.env.FENIX_NAME || 'Unknown Friend',
 
     // Group contact push
-    fenixwel1: process.env.FENIX_WEL_1 || 'Your Number Has Been Auto Saved🫠',
-    fenixwel2: process.env.FENIX_WEL_2 || 'Save And Alert Me If Save 🌹',
+    fenixwel1: process.env.FENIX_WEL_1 || 'ඔයාගේ නම්බර් එක AUTO SAVE වෙනවා 🫠',
+    fenixwel2: process.env.FENIX_WEL_2 || 'save නම් "SV" කියල MSG එකක් දාන්න 🌹',
     fenixwel3: process.env.FENIX_WEL_3 || 'Save and Alert me✅',
 
     // Status motion push
