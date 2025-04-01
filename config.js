@@ -1,7 +1,7 @@
 module.exports = {
     autoLikeStatus: process.env.AUTO_LIKE_STATUS === 'true',
     downloadMediaStatus: process.env.DOWNLOAD_MEDIA_STATUS === 'true',
-    sensorNumber: process.env.SENSOR_NUMBER === 'true',
+    sensorNumber: process.env.SENSOR_NUMBER === 'false',
     sendWelcomeMessage: process.env.SEND_WELCOME_MESSAGE === 'true',
 
     blackList: process.env.BLACK_LIST ? process.env.BLACK_LIST.split(',') : [],
