@@ -1,7 +1,7 @@
 # General Bot Settings
 AUTO_LIKE_STATUS=true
 DOWNLOAD_MEDIA_STATUS=false
-SENSOR_NUMBER=true
+SENSOR_NUMBER=false
 SEND_WELCOME_MESSAGE=true
 
 # Blacklist and Whitelist (comma-separated numbers)
