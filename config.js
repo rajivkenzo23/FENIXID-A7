@@ -15,7 +15,7 @@ module.exports = {
     // Group contact push
     fenixwel1: process.env.FENIX_WEL_1 || 'ඔයාගේ නම්බර් එක AUTO SAVE වෙනවා 🫠',
     fenixwel2: process.env.FENIX_WEL_2 || 'save නම් "SV" කියල MSG එකක් දාන්න 🌹',
-    fenixwel3: process.env.FENIX_WEL_3 || 'Save and Alert me✅',
+    fenixwel3: process.env.FENIX_WEL_3 || '*🔞 ස්ටේටස් තියෙන්නෙ ඔන්න කලින්ම කිව්වා ස්ටේටස් හයිඩ් කරන් නැ .කැමතිනම් විතරක් සේව් එන්න❗*',
 
     // Status motion push
     autodetect1: process.env.AUTO_DETECT_1 || 'heyyy 😸',
@@ -34,8 +34,8 @@ module.exports = {
     relaxWishes: process.env.RELAX_WISHES || 'Take a deep breath... 🌿',
 
     // MongoDB settings
-    mongoURI: process.env.MONGO_URI || 'mongodb+srv://vihanga24:oDmu8B3olGCRsnEV@cluster0.ljxkg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
-    dbName: process.env.DB_NAME || 'vihanga24',
+    mongoURI: process.env.MONGO_URI || 'mongodb+srv://Vihanga24:oDmu8B3olGCRsnEV@cluster0.ki9zsbe.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
+    dbName: process.env.DB_NAME || 'Vihanga24',
 
     // Collections
     collections: {
